@@ -1,10 +1,10 @@
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Akash </h1>
 
-<h2 align="center">Developer | Marketer | Leader</h2>
+<h2 align="center">Developer &nbsp; | &nbsp; Marketer &nbsp; | &nbsp; Leader</h2>
 
 <br/>
 
-<h4 align="center"> I'm JavaScript Full Stack Web Developer and Open Source Enthusiastic. I Spend most of time coding outstanding projects.</h4>
+<h4 align="center"> I'm a JavaScript Full Stack Web Developer and Open Source Enthusiastic from India 🇮🇳. I Spend most of time coding outstanding projects.</h4>
 
 <br/>
 
@@ -62,8 +62,6 @@
 
   <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />    
 
-  <img align="left" alt="ExpressJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" style="padding-right:10px;" />  
-
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
   <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
@@ -76,12 +74,14 @@
 
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 
+  <img align="left" alt="ExpressJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" style="padding-right:10px;" />  
+
 </div>
 
 <br/>
 <br/>
 
----
+
 
 ## 📕 Latest Blog Posts
 
@@ -91,7 +91,6 @@
 
 ➡️ [more blog posts...](https://akashkadlag.hashnode.dev)
 
----
 
 ## ⚡️ Recent GitHub Activity
   
@@ -99,7 +98,7 @@
 
 <!--END_SECTION:activity-->
 
----
+
 ## 👨🏻‍💻 Activity Moniter
 
 <br/>
