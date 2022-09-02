@@ -60,9 +60,9 @@
 
   <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="padding-right:10px;" />
 
-  <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />    
 
-  <img align="left" alt="ExpressJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />  
+  <img align="left" alt="ExpressJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg#gh-light-mode-only" style="padding-right:10px;" />  
 
   <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
@@ -70,9 +70,9 @@
 
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-  <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+  <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
 
-  <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+  <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 
   <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 
@@ -104,7 +104,7 @@
 
 <br/>
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KadlagAkash&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -115,8 +115,8 @@
 <br/>
 
 
-<img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KadlagAkash&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48%/>
-<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadlagAkash&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48%/>
+<img alt="Akash Kadlag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KadlagAkash&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48%/>
+<img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadlagAkash&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48%/>
 
 <br/>
 <p align="center">
