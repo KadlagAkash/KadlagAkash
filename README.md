@@ -87,7 +87,9 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Git &amp; Github: A Beginner&#39;s Guide](https://akashkadlag.hashnode.dev/git-and-github-crash-course)
+- [Mastering CSS Position in 2022.](https://akashkadlag.hashnode.dev/mastering-css-position)
+- [Mastering CSS &amp; CSS3 Selectors in 2022.](https://akashkadlag.hashnode.dev/mastering-css-selectors)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://akashkadlag.hashnode.dev)
