@@ -1,10 +1,8 @@
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Akash </h1>
 
-<h2 align="center">Developer &nbsp; | &nbsp; Marketer &nbsp; | &nbsp; Leader</h2>
-
 <br/>
 
-<h4 align="center"> I'm a JavaScript Full Stack Web Developer and Open Source Enthusiastic from India 🇮🇳. I Spend most of time coding outstanding projects.</h4>
+<h3 align="center"> I'm a JavaScript Full Stack Web Developer and Open Source Enthusiastic from India 🇮🇳. I Spend most of time coding outstanding projects.</h3>
 
 <br/>
 
@@ -115,13 +113,16 @@
 
 <br/>
 
-
-<img alt="Akash Kadlag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KadlagAkash&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48% align="left" style="padding-right: 20px"/> <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadlagAkash&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=45%/>
-
-<br/>
 <p align="center">
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
+  <img alt="Akash Kadlag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KadlagAkash&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48% align="left" style="padding-right: 20px"/> 
+  
+  <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadlagAkash&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=46%/>
+<p/>
+<br/>
+<br/>
+<h4 align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of <br/> and doesn't reflect experience or skill level.
+</h4>
 
 <br/>
 <br/>
