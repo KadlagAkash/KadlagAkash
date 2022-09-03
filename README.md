@@ -20,7 +20,7 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m stuent enrolled in Pune University with hands-on experience gained through Sales and Marketing. 
+- 🔭 I’m student enrolled in Pune University with hands-on experience gained through Sales and Marketing. 
 
 - 🔭 Check out my Articles on: [akashkadlag.hashnode.dev](https://akashkadlag.hashnode.dev)
 
@@ -111,13 +111,12 @@
 </p>
 <br/>
 
-## 📊 Github Stats
+## 📊 GitHub Stats
 
 <br/>
 
 
-<img alt="Akash Kadlag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KadlagAkash&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48%/>
-<img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadlagAkash&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48%/>
+<img alt="Akash Kadlag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KadlagAkash&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=48% align="left" style="padding-right: 20px"/> <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadlagAkash&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width=45%/>
 
 <br/>
 <p align="center">
