@@ -1,6 +1,9 @@
 <h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Akash </h1>
 
 <br/>
+<p align ="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=00BDF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+;Marketer;Leader" alt="Typing SVG" /></a>
+<p>
 
 <h3 align="center"> I'm a JavaScript Full Stack Web Developer and Open Source Enthusiastic from India 🇮🇳. I Spend most of time coding outstanding projects.</h3>
 
@@ -34,7 +37,7 @@
 
 <br/>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px align="center"> :
 <br/>
 
 <div align="center">
@@ -77,7 +80,7 @@
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 
 
@@ -91,6 +94,8 @@
 
 ➡️ [more blog posts...](https://akashkadlag.hashnode.dev)
 
+<br/>
+
 
 ## ⚡️ Recent GitHub Activity
   
@@ -98,6 +103,8 @@
 
 <!--END_SECTION:activity-->
 
+<br/>
+<br/>
 
 ## 👨🏻‍💻 Activity Moniter
 
@@ -109,7 +116,7 @@
 </p>
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" align="top"> GitHub Stats
 
 <br/>
 
